@@ -1,3 +1,4 @@
+// p and q might not exist
 
 public class LCAII {
 
