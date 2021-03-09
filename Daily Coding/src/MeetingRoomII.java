@@ -2,6 +2,10 @@
 import java.util.Arrays;
 import java.util.PriorityQueue;
 public class MeetingRoomII {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
 	public int minMeetingRooms(int[][] intervals) {
 		if(intervals == null || intervals.length == 0){
 			return 0;
