@@ -9,9 +9,10 @@ public class MergeIntervals {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		int[][] intervals = {{0, 3}, {2, 4}, {4,5}, {8,9},{9,10},};
+		
 	}
-	public int[][] merge(int[][] intervals) {
+	public static int[][] merge(int[][] intervals) {
 		if(intervals == null || intervals.length == 0){
 			return new int[0][0];
 		}
