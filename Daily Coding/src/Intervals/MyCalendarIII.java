@@ -1,3 +1,4 @@
+package Intervals;
 import java.util.TreeMap;
 //LeetCod 732
 //A k-booking happens when k events have some non-empty intersection (i.e., there is some time that is common to all k events.)

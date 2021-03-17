@@ -1,3 +1,4 @@
+package Intervals;
 import java.util.Arrays;
 
 public class MeetingRooms {
